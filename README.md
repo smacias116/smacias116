@@ -1,19 +1,16 @@
-# Hi there! I'm Santiago 👋
+# # Hi there! I'm Santi
+Welcome to my GitHub student portfolio.
+Here is a look at some projects and work from Loyola. 
 
-Welcome to my GitHub portfolio! Here is a look at my tech projects and work from Loyola. I'm a developer focused on building clean code, working with data, and solving technical problems.
-
-## 🛠️ Technical Toolkit
-
-* **Languages:** Python, SQL, C++
-* **Tools & Data:** Pandas, NumPy, Jupyter Notebooks, Anaconda, Git
+## Technical Toolkit
+* **Languages:** Python, Java, SQL, C++
+* **Tools & Data:** Pandas, NumPy, Jupyter Notebooks, Anaconda, Git, PostgreSQL
 * **Methodologies:** Agile / Scrum
 
-## 🚀 Featured Projects
+## Some projects:
+* 💻 **[Mini CPU Simulator](https://github.com/smacias116/miniCPU_Simulator):** A C++ script that simulates how a CPU works addressing RAM and Registers in MIPS architecture.
+* ♟️ **[Knight's Tour](https://github.com/smacias116/KnightsTour/tree/main):** A Python code that executes a complete Knight's chess tour using [Warnsdorf's heuristic](https://en.wikipedia.org/wiki/Knight%27s_tour).
 
-* 🐍 **[Project Title 1](link-to-repo):** A brief, 1-sentence description of your best project (e.g., A Python script that analyzes and visualizes data trends).
-* 📊 **[Project Title 2](link-to-repo):** Another cool project (e.g., A SQL database optimization project or a class assignment you're proud of).
-
-## 💬 Let's Connect
-
-* 💼 **LinkedIn:** [Your LinkedIn URL Here]
-* 📧 **Email:** [Your Email Here]
+## 🎯 Find me at
+* 💼 **LinkedIn:** [santiagomacias](https://www.linkedin.com/in/santiagomacias/)
+* 📧 **Email:** [santi.macias.sanchez@gmail.com](mailto:santi.macias.sanchez@gmail.com)
