@@ -1,4 +1,4 @@
-## Hi there! I'm Santi
+# Hi there! I'm Santi
 Welcome to my GitHub student portfolio.
 Here is a look at some projects and work from Loyola. 
 
