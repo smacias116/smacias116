@@ -4,8 +4,9 @@ Here is a look at some projects and work from Loyola.
 
 
 ## Technical Toolkit:
-* **Languages:** Python, Java, SQL, C++
-* **Tools & Data:** Pandas, NumPy, Jupyter Notebooks, Anaconda, Git, PostgreSQL
+* **Languages:** C++, Java, Python, SQL
+* **Data & Geospatial:** Pandas, NumPy, Jupyter Notebooks, Anaconda, PostgreSQL, ArcGIS
+* **Tools & Data:** Git, VS Code, DataGrip, Pega Systems, Jira, Confluence
 * **Methodologies:** Agile / Scrum
 
 
