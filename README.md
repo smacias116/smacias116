@@ -18,3 +18,4 @@ Here is a look at some projects and work from Loyola.
 ## 🎯 Find me at:
 * 💼 **LinkedIn:** [santiagomacias](https://www.linkedin.com/in/santiagomacias/)
 * 📧 **Email:** [santi.macias.sanchez@gmail.com](mailto:santi.macias.sanchez@gmail.com)
+* 🦄 **Pega Profile:** [SMacias](https://accounts.pega.com/profile/SMacias)
