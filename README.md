@@ -12,6 +12,7 @@ Here is a look at some projects and work from Loyola.
 ## Some projects:
 * 💻 **[Mini CPU Simulator](https://github.com/smacias116/miniCPU_Simulator):** C++ script that simulates how a CPU works, addressing RAM & Registers in MIPS ISA.
 * ♟️ **[Knight's Tour](https://github.com/smacias116/KnightsTour/tree/main):** Python code executing a complete Knight's chess tour using [Warnsdorf's heuristic](https://en.wikipedia.org/wiki/Knight%27s_tour).
+* 🗺️ **[NOLA Geospatial study](https://github.com/smacias116/CRIM-X210-Final_Project):** ArcGIS work analysing rental market impact in New Orleans.
 
 
 ## 🎯 Find me at:
